@@ -1,0 +1,21 @@
+.infobar-container {
+  width: 100%;
+  height: 70px;
+  background-color: rgb(174, 174, 236);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.leave-btn {
+  border-radius: 5px;
+  text-align: center;
+  width: 150px;
+  height: 50px;
+}
+
+.room-name {
+  color: black;
+  font-size: x-large;
+}
